@@ -1,0 +1,16 @@
+.app {
+  padding: 1rem 2rem;
+}
+
+.student-list {
+  li {
+  }
+}
+
+.color-list {
+  margin-top: 3rem;
+
+  & > li {
+    text-transform: uppercase;
+  }
+}
